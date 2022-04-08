@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<!-- Olá, esse é um projeto feito em MARÇO.22, um pouquinho mais antigo -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="estilo.css" rel="stylesheet"/>
+    <title>Codifique-se</title>
+    <script src="https://kit.fontawesome.com/5cf7cde565.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    
+    <!-- CABEÇALHO -->
+    <header id="header">
+            
+        <a id="logo">Codifique</a>
+        
+    <nav id="nav">
+            
+            <div id="toggle"></div>
+
+            <script>
+                const toggle = document.getElementById('toggle');
+                toggle.onclick = function(){
+                    toggle.classList.toggle('active');}
+            </script>
+
+            <ul id="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Contato</a></li>
+        
+            </ul>
+    </nav>
+    
+    </header>
+    
+    <!-- CONTEÚDO MAIN DA PÁGINA -->
+    <main>
+        <div id="conteudo">
+            <h1>Seja Bem-Vindo ao Codifique-se</h1>
+            
+            <h2>Site Responsivo <span style="color: #f7226a;" >HTML,</span><span style="color: #22a2f7;" > CSS</span><span style="color: #eccf2a;" > e JS + 
+            botão hambúrguer</span></h2>
+            
+            <p>Olá, seja bem vindo(a) ao meu primeiro "projeto aula" de site responsivo com HTML, CSS E JAVASCRIPT. <br> Com esse site eu implementei uma estrutura HTML padrão 5, estilizei com CSS3
+               e implementei também um botão "hambúrguer" <br> que, na verdade, é um <span style="color: #f7226a;"> Menu Bar responsivo</span> para a visualização em telas Mobile. <br> <span style="color: #eccf2a;"> Meu perfil está disponível através dos links abaixo!
+            </span></p>
+        </div>
+    </main>
+
+    <!-- RODAPÉ DO SITE -->
+    <footer class="rodape">
+        <div class="footer-content">
+        <h3>Codifique</h3>
+        <a>Me encontre nas redes sociais abaixo!</a>
+        <ul class="socials">
+            <li><a href="#"><i class="fa-solid fa-at"></i></a></li>
+            
+            <li><a href="https://www.linkedin.com/in/soutovit/" target="_blank"><i class="fa fa-linkedin-square"></i> </a></li>
+        </ul>
+        </div>
+    </footer>
+
+    </body>
+
+</html>
