@@ -1,4 +1,4 @@
-# MenuHamburguerJS
+# Menu Hamburguer HTML, CSS e JS
 ## Site responsivo com Menu Hamburguer p/ visualização em Mobile
 
 ᴇssᴇ é ᴜᴍ ᴘʀᴏᴊᴇᴛᴏ ᴅᴇ ᴜᴍ sɪᴛᴇ ʀᴇsᴘᴏɴsɪᴠᴏ ᴄᴏᴍ ᴜᴍ ᴍᴇɴᴜ ʜᴀᴍʙᴜʀɢᴜᴇʀ ᴘᴀʀᴀ ᴛᴇʟᴀs ᴍᴏʙɪʟᴇ.
