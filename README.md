@@ -1,6 +1,7 @@
 # Menu Hambúrguer HTML, CSS e JS 🍔
 ### Menu Hambúrguer responsivo p/ visualização em Mobile 📱
 
+![preview](https://media.discordapp.net/attachments/935238082125525082/1004532385972506664/Codifiquese.png?width=705&height=348)
 > Olá, tudo bem? Espero que sim! Esse é um dos meus primeiros projetos desenvolvidos no começo de 2022, cujo o **objetivo principal** foi desenvolver um site que ao ser exibido em telas menores que em desktop, surgisse um menu hambúrguer para mobile.
 > - Espero que você dê uma olhada 👏😊
 
